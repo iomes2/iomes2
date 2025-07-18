@@ -7,7 +7,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/renaniomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renaniomes" height="30" width="40" /></a>
 <a href="https://www.behance.net/renaniomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="renaniomes" height="30" width="40" /></a>
-<a href="https://discord.gg/iomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iomes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
