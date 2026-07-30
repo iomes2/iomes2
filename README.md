@@ -20,7 +20,7 @@
 
 Software engineer with a full-stack foundation and a business owner's perspective. I build web and mobile products with **React, TypeScript and .NET**, and I run **[Haze](https://hazemkt.com)**, my own digital agency — which means I ship code understanding funnels, conversion and the metrics that tell whether a product actually works.
 
-- 🏢 Software developer at **Stefanini / Topaz Evolution** — fintech products in agile teams (React, TypeScript, Redux, REST APIs, .NET)
+- 🏢 Previously a software developer at **Stefanini / Topaz Evolution** — fintech products in agile teams (React, TypeScript, Redux, REST APIs, .NET)
 - 🔭 Founder & operations lead at **[Haze](https://hazemkt.com)**, my digital marketing agency
 - 🎓 B.Sc. Software Engineering — Católica de Santa Catarina (2022–2026)
 - 🌱 Learning French in my spare time
