@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/🇬🇧_English-cccccc?style=for-the-badge&labelColor=cccccc" alt="English" /></a>
-  <a href="./README.pt-br.md"><img src="https://img.shields.io/badge/🇧🇷_Português-2b3137?style=for-the-badge" alt="Português" /></a>
+  <a href="./README.md">🇬🇧 English</a>
+  &nbsp;•&nbsp;
+  <b>🇧🇷 Português</b>
 </p>
 
 ---
